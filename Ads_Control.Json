@@ -24,7 +24,6 @@
   "dev_option": "false",
   "vpn_option": "true",
   "ads_show": "true",
-  "Intro": "true",
   "ads_intro_screen": "native",
   "ads_start_screen": "native",
   "ads_main_screen": "native",

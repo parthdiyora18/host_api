@@ -22,16 +22,104 @@
       "category_icon": "",
       "games": [
         {
-           "name": "Air Force Commando Online Game",
-		   "icon": "https://games.assets.gamepix.com/6IRME/thumbnail/small.png",
-           "url": "https://play.gamepix.com/air-force-commando-online-game/embed?sid=16P5A"
-           
+            "name": "Jelly-slice.",
+            "url": "",
+            "icon": "https://kayrainfo.com/images/an1.jpg"
         },
         {
-           "name": "Air Force Commando Online Game",
-		   "icon": "https://games.assets.gamepix.com/6IRME/thumbnail/small.png",
-           "url": "https://play.gamepix.com/air-force-commando-online-game/embed?sid=16P5A"
-           
+            "name": "Knife-hit",
+            "url": "",
+            "icon": "https://kayrainfo.com/images/an2.jpg"
+        },
+        {
+            "name": "Scooby to Birthday",
+            "url": "",
+            "icon": "https://kayrainfo.com/images/an3.jpg"
+        },
+        {
+            "name": "SpotThe Differences",
+            "url": "",
+            "icon": "https://kayrainfo.com/images/an4.jpg"
+        },
+        {
+            "name": "Criatures Defence",
+            "url": "",
+            "icon": "https://kayrainfo.com/images/an5.jpg"
+        },
+        {
+            "name": "Harmonica Hopper",
+            "url": "",
+            "icon": "https://kayrainfo.com/images/an6.jpg"
+        },
+        {
+            "name": "Emoji Glass",
+            "url": "",
+            "icon": "https://kayrainfo.com/images/an7.jpg"
+        },
+        {
+            "name": "Baby-Taylor-Farm-Fun",
+            "url": "",
+            "icon": "https://kayrainfo.com/images/an8.jpg"
+        },
+        {
+            "name": "Babby Anna A days",
+            "url": "",
+            "icon": "https://kayrainfo.com/images/an9.jpg"
+        },
+        {
+            "name": "Washpets",
+            "url": "",
+            "icon": "https://kayrainfo.com/images/an10.jpg"
+        },
+        {
+            "name": "Meng Chong Cheng",
+            "url": "",
+            "icon": "https://kayrainfo.com/images/an11.jpg"
+        },
+        {
+            "name": "My DolffinShow",
+            "url": "",
+            "icon": "https://kayrainfo.com/images/an12.jpg"
+        },
+        {
+            "name": "Meow Dress Up",
+            "url": "",
+            "icon": "https://kayrainfo.com/images/an13.jpg"
+        },
+        {
+            "name": "Victoria Adopts a Kitten",
+            "url": "",
+            "icon": "https://kayrainfo.com/images/an14.jpg"
+        },
+        {
+            "name": "MatchAnimals",
+            "url": "",
+            "icon": "https://kayrainfo.com/images/an15.jpg"
+        },
+        {
+            "name": "Fish-world-match",
+            "url": "",
+            "icon": "https://kayrainfo.com/images/an16.jpg"
+        },
+        {
+            "name": "mashroom fall",
+            "url": "",
+            "icon": "https://kayrainfo.com/images/u132.jpg"
+        },
+        {
+            "name": "jungle slump",
+            "url": "",
+            "icon": "https://kayrainfo.com/images/u133.jpg"
+        },
+        {
+            "name": "Cowboy Shoot Zombie",
+            "url": "",
+            "icon": "https://kayrainfo.com/images/u134.jpg"
+        },
+        {
+            "name": "Jumpng Angry Ape",
+            "url": "",
+            "icon": "https://kayrainfo.com/images/u144.jpg"
         }
         
          
@@ -42,16 +130,354 @@
       "category_icon": "",
       "games": [
         {
-           "name": "Air Force Commando Online Game",
-		   "icon": "https://games.assets.gamepix.com/6IRME/thumbnail/small.png",
-           "url": "https://play.gamepix.com/air-force-commando-online-game/embed?sid=16P5A"
-           
+            "name": "Bottle Shoot",
+            "url": "",
+            "icon": "https://kayrainfo.com/images/zo1.jpg"
         },
         {
-           "name": "Air Force Commando Online Game",
-		   "icon": "https://games.assets.gamepix.com/6IRME/thumbnail/small.png",
-           "url": "https://play.gamepix.com/air-force-commando-online-game/embed?sid=16P5A"
-           
+            "name": "Slap Fest",
+            "url": "",
+            "icon": "https://kayrainfo.com/images/a14z.jpg"
+        },
+        {
+            "name": "Ludo With Friends",
+            "url": "",
+            "icon": "https://kayrainfo.com/images/t8.jpg"
+        },
+        {
+            "name": "Pumpkin Smasher",
+            "url": "",
+            "icon": "https://kayrainfo.com/images/t66.jpg"
+        },
+        {
+            "name": "Zombies Can't Jump 2",
+            "url": "",
+            "icon": "https://kayrainfo.com/images/z10.jpg"
+        },
+        {
+            "name": "Savage Revenge",
+            "url": "",
+            "icon": "https://kayrainfo.com/images/t65.jpg"
+        },
+        {
+            "name": "Evil Wyrm",
+            "url": "",
+            "icon": "https://kayrainfo.com/images/a1z.jpg"
+        },
+        {
+            "name": "Defense of Karmax 3",
+            "url": "",
+            "icon": "https://kayrainfo.com/images/a2z.jpg"
+        },
+        {
+            "name": "Pixel Zombies",
+            "url": "",
+            "icon": "https://kayrainfo.com/images/a3z.jpg"
+        },
+        {
+            "name": "Cuby Zap",
+            "url": "",
+            "icon": "https://kayrainfo.com/images/a4az.jpg"
+        },
+        {
+            "name": "Rabbit Punch",
+            "url": "",
+            "icon": "https://kayrainfo.com/images/a5az.jpg"
+        },
+        {
+            "name": "Monsteroid",
+            "url": "",
+            "icon": "https://kayrainfo.com/images/a6az.jpg"
+        },
+        {
+            "name": "Shadow Run",
+            "url": "",
+            "icon": "https://kayrainfo.com/images/a7az.jpg"
+        },
+        {
+            "name": "Troll Boxing",
+            "url": "",
+            "icon": "https://kayrainfo.com/images/a8az.jpg"
+        },
+        {
+            "name": "Ooltaa",
+            "url": "",
+            "icon": "https://kayrainfo.com/images/a9az.jpg"
+        },
+        {
+            "name": "Sheriff's Wrath",
+            "url": "",
+            "icon": "https://kayrainfo.com/images/t10.jpg"
+        },
+        {
+            "name": "Rapunzel Tower",
+            "url": "",
+            "icon": "https://kayrainfo.com/images/a12az.jpg"
+        },
+        {
+            "name": "Pie Attack",
+            "url": "",
+            "icon": "https://kayrainfo.com/images/a13az.jpg"
+        },
+        {
+            "name": "Crunching Ninjas",
+            "url": "",
+            "icon": "https://kayrainfo.com/images/a15az.jpg"
+        },
+        {
+            "name": "Dead End",
+            "url": "",
+            "icon": "https://kayrainfo.com/images/a16az.jpg"
+        },
+        {
+            "name": "Rocket Man",
+            "url": "",
+            "icon": "https://kayrainfo.com/images/a18az.jpg"
+        },
+        {
+            "name": "Pirate Hunt",
+            "url": "",
+            "icon": "https://kayrainfo.com/images/a19az.jpg"
+        },
+        {
+            "name": "Valley of Terror",
+            "url": "",
+            "icon": "https://kayrainfo.com/images/t20.jpg"
+        },
+        {
+            "name": "Aliens Attack",
+            "url": "",
+            "icon": "https://kayrainfo.com/images/a21az.jpg"
+        },
+        {
+            "name": "Gerbil Jump",
+            "url": "",
+            "icon": "https://kayrainfo.com/images/a22az.jpg"
+        },
+        {
+            "name": "Animals Air Fight",
+            "url": "",
+            "icon": "https://kayrainfo.com/images/a23az.jpg"
+        },
+        {
+            "name": "Rollout",
+            "url": "",
+            "icon": "https://kayrainfo.com/images/v9.jpg"
+        },
+        {
+            "name": "Rope Ninja",
+            "url": "",
+            "icon": "https://kayrainfo.com/images/v28.jpg"
+        },
+        {
+            "name": "Escape Run",
+            "url": "",
+            "icon": "https://kayrainfo.com/images/v29.jpg"
+        },
+        {
+            "name": "Sway Bay",
+            "url": "",
+            "icon": "https://kayrainfo.com/images/v27.jpg"
+        },
+        {
+            "name": "Jimbo Jump",
+            "url": "",
+            "icon": "https://kayrainfo.com/images/v20.jpg"
+        },
+        {
+            "name": "Sticky Goo",
+            "url": "",
+            "icon": "https://kayrainfo.com/images/v6.jpg"
+        },
+        {
+            "name": "Knife Flip",
+            "url": "",
+            "icon": "https://kayrainfo.com/images/v21.jpg"
+        },
+        {
+            "name": "Knight Ride",
+            "url": "",
+            "icon": "https://kayrainfo.com/images/v30.jpg"
+        },
+        {
+            "name": "Pigeon Bomber",
+            "url": "",
+            "icon": "https://kayrainfo.com/images/v2.jpg"
+        },
+        {
+            "name": "Battle Fish",
+            "url": "",
+            "icon": "https://kayrainfo.com/images/v3.jpg"
+        },
+        {
+            "name": "Marshmallow Dash",
+            "url": "",
+            "icon": "https://kayrainfo.com/images/v4.jpg"
+        },
+        {
+            "name": "Holiday Cheer",
+            "url": "",
+            "icon": "https://kayrainfo.com/images/v5.jpg"
+        },
+        {
+            "name": "Saucer Dodge",
+            "url": "",
+            "icon": "https://kayrainfo.com/images/v1.jpg"
+        },
+        {
+            "name": "Submarine Dash",
+            "url": "",
+            "icon": "https://kayrainfo.com/images/v7.jpg"
+        },
+        {
+            "name": "Mouse Jump",
+            "url": "",
+            "icon": "https://kayrainfo.com/images/v8.jpg"
+        },
+        {
+            "name": "Colour Chase",
+            "url": "",
+            "icon": "https://kayrainfo.com/images/v10.jpg"
+        },
+        {
+            "name": "Cosmo Spin",
+            "url": "",
+            "icon": "https://kayrainfo.com/images/v11.jpg"
+        },
+        {
+            "name": "Space Cowboy",
+            "url": "",
+            "icon": "https://kayrainfo.com/images/v12.jpg"
+        },
+        {
+            "name": "Sir Bottomtight",
+            "url": "",
+            "icon": "https://kayrainfo.com/images/v13.jpg"
+        },
+        {
+            "name": "Monster Wants Candy",
+            "url": "",
+            "icon": "https://kayrainfo.com/images/v14.jpg"
+        },
+        {
+            "name": "Snappy Spy",
+            "url": "",
+            "icon": "https://kayrainfo.com/images/v15.jpg"
+        },
+        {
+            "name": "Pirate Kid",
+            "url": "",
+            "icon": "https://kayrainfo.com/images/v16.jpg"
+        },
+        {
+            "name": "Aqua Thief",
+            "url": "",
+            "icon": "https://kayrainfo.com/images/v17.jpg"
+        },
+        {
+            "name": "Catch-a-pult",
+            "url": "",
+            "icon": "https://kayrainfo.com/images/v18.jpg"
+        },
+        {
+            "name": "One More Flight",
+            "url": "",
+            "icon": "https://kayrainfo.com/images/v19.jpg"
+        },
+        {
+            "name": "Twin Hop",
+            "url": "",
+            "icon": "https://kayrainfo.com/images/v40.jpg"
+        },
+        {
+            "name": "Alfy",
+            "url": "",
+            "icon": "https://kayrainfo.com/images/v41.jpg"
+        },
+        {
+            "name": "Nosedive",
+            "url": "",
+            "icon": "https://kayrainfo.com/images/v22.jpg"
+        },
+        {
+            "name": "Jumpy: The First Jumper",
+            "url": "",
+            "icon": "https://kayrainfo.com/images/v23.jpg"
+        },
+        {
+            "name": "Dodge Bot",
+            "url": "",
+            "icon": "https://kayrainfo.com/images/v24.jpg"
+        },
+        {
+            "name": "Penguin Skip",
+            "url": "",
+            "icon": "https://kayrainfo.com/images/v25.jpg"
+        },
+        {
+            "name": "Sneaky Snack",
+            "url": "",
+            "icon": "https://kayrainfo.com/images/v26.jpg"
+        },
+        {
+            "name": "Odd One Out",
+            "url": "",
+            "icon": "https://kayrainfo.com/images/v31.jpg"
+        },
+        {
+            "name": "The Sea Lion Act",
+            "url": "",
+            "icon": "https://kayrainfo.com/images/v32.jpg"
+        },
+        {
+            "name": "Go Chicken Go",
+            "url": "",
+            "icon": "https://kayrainfo.com/images/v33.jpg"
+        },
+        {
+            "name": "Snakes & Ladders",
+            "url": "",
+            "icon": "https://kayrainfo.com/images/v34.jpg"
+        },
+        {
+            "name": "Jumpy Ape Joe",
+            "url": "",
+            "icon": "https://kayrainfo.com/images/v35.jpg"
+        },
+        {
+            "name": "Panda Love",
+            "url": "",
+            "icon": "https://kayrainfo.com/images/v36.jpg"
+        },
+        {
+            "name": "Terra Infirma",
+            "url": "",
+            "icon": "https://kayrainfo.com/images/v37.jpg"
+        },
+        {
+            "name": "Flying School",
+            "url": "",
+            "icon": "https://kayrainfo.com/images/v38.jpg"
+        },
+        {
+            "name": "Astro Knot",
+            "url": "",
+            "icon": "https://kayrainfo.com/images/v39.jpg"
+        },
+        {
+            "name": "Red Rush",
+            "url": "",
+            "icon": "https://kayrainfo.com/images/r17.jpg"
+        },
+        {
+            "name": "Tower Twist",
+            "url": "",
+            "icon": "https://kayrainfo.com/images/r18.jpg"
+        },
+        {
+            "name": "Falling Through",
+            "url": "",
+            "icon": "https://kayrainfo.com/images/r12.jpg"
         }
         
          
@@ -62,16 +488,229 @@
       "category_icon": "",
       "games": [
         {
-           "name": "Air Force Commando Online Game",
-		   "icon": "https://games.assets.gamepix.com/6IRME/thumbnail/small.png",
-           "url": "https://play.gamepix.com/air-force-commando-online-game/embed?sid=16P5A"
-           
+            "name": "Moto Maniac 2",
+            "url": "https://play.gamepix.com/moto-maniac-2/embed?sid=16P5A",
+            "icon": "https://games.assets.gamepix.com/OM649/thumbnail/small.png"
         },
         {
-           "name": "Air Force Commando Online Game",
-		   "icon": "https://games.assets.gamepix.com/6IRME/thumbnail/small.png",
-           "url": "https://play.gamepix.com/air-force-commando-online-game/embed?sid=16P5A"
-           
+            "name": "3D Darts",
+            "url": "https://play.gamepix.com/3d-darts/embed?sid=16P5A",
+            "icon": "https://games.assets.gamepix.com/40438/thumbnail/small.png"
+        },
+        {
+            "name": "4Hockey",
+            "url": "https://play.gamepix.com/4hockey/embed?sid=16P5A",
+            "icon": "https://games.assets.gamepix.com/54188/thumbnail/small.png"
+        },
+        {
+            "name": "AI Soccer Training",
+            "url": "https://play.gamepix.com/ai-soccer-training/embed?sid=16P5A",
+            "icon": "https://games.assets.gamepix.com/GS5A1/thumbnail/small.png"
+        },
+        {
+            "name": "Air Hockey Cup",
+            "url": "https://play.gamepix.com/air-hockey-cup/embed?sid=16P5A",
+            "icon": "https://games.assets.gamepix.com/64P0I/thumbnail/small.png"
+        },
+        {
+            "name": "Airplane Pilot Simulator",
+            "url": "https://play.gamepix.com/airplane-pilot-simulator/embed?sid=16P5A",
+            "icon": "https://games.assets.gamepix.com/IIIOO/thumbnail/small.png"
+        },
+        {
+            "name": "Angry Pumpkin Basketball",
+            "url": "https://play.gamepix.com/pumpkin-basketball/embed?sid=16P5A",
+            "icon": "https://games.assets.gamepix.com/4LLS7/thumbnail/small.png"
+        },
+        {
+            "name": "Angry Zombie",
+            "url": "https://play.gamepix.com/angry-zombie/embed?sid=16P5A",
+            "icon": "https://games.assets.gamepix.com/191ME/thumbnail/small.png"
+        },
+        {
+            "name": "Archery Hero Pro",
+            "url": "https://play.gamepix.com/archery-hero/embed?sid=16P5A",
+            "icon": "https://games.assets.gamepix.com/YR66R/thumbnail/small.png"
+        },
+        {
+            "name": "Archery King",
+            "url": "https://play.gamepix.com/archery-king/embed?sid=16P5A",
+            "icon": "https://games.assets.gamepix.com/15311/thumbnail/small.png"
+        },
+        {
+            "name": "Arrow Shoot",
+            "url": "https://play.gamepix.com/arrow-shoot/embed?sid=16P5A",
+            "icon": "https://games.assets.gamepix.com/O4R4O/thumbnail/small.png"
+        },
+        {
+            "name": "Ball Juggling",
+            "url": "https://play.gamepix.com/ball-juggling/embed?sid=16P5A",
+            "icon": "https://games.assets.gamepix.com/GBG9G/thumbnail/small.png"
+        },
+        {
+            "name": "Bandy Ball",
+            "url": "https://play.gamepix.com/bandyball/embed?sid=16P5A",
+            "icon": "https://games.assets.gamepix.com/46A1L/thumbnail/small.png"
+        },
+        {
+            "name": "Baseball Hero",
+            "url": "https://play.gamepix.com/baseball-hero/embed?sid=16P5A",
+            "icon": "https://games.assets.gamepix.com/40406/thumbnail/small.png"
+        },
+        {
+            "name": "Baseball Super",
+            "url": "https://play.gamepix.com/baseball-super/embed?sid=16P5A",
+            "icon": "https://games.assets.gamepix.com/S5SLU/thumbnail/small.png"
+        },
+        {
+            "name": "Baseball for Clowns",
+            "url": "https://play.gamepix.com/baseball-for-clowns/embed?sid=16P5A",
+            "icon": "https://games.assets.gamepix.com/40300/thumbnail/small.png"
+        },
+        {
+            "name": "Basket Champs",
+            "url": "https://play.gamepix.com/basket-slam/embed?sid=16P5A",
+            "icon": "https://games.assets.gamepix.com/5SA5A/thumbnail/small.png"
+        },
+        {
+            "name": "Basketball Challenge",
+            "url": "https://play.gamepix.com/basketball-challenge/embed?sid=16P5A",
+            "icon": "https://games.assets.gamepix.com/K7L74/thumbnail/small.png"
+        },
+        {
+            "name": "Basketball Kings 2022",
+            "url": "https://play.gamepix.com/basketball-kings-2022/embed?sid=16P5A",
+            "icon": "https://games.assets.gamepix.com/208BA/thumbnail/small.png"
+        },
+        {
+            "name": "Basketball Kings 2024",
+            "url": "https://play.gamepix.com/basketball-kings-2024/embed?sid=16P5A",
+            "icon": "https://games.assets.gamepix.com/L4333/thumbnail/small.png"
+        },
+        {
+            "name": "Basketball Master",
+            "url": "https://play.gamepix.com/basketball-masters/embed?sid=16P5A",
+            "icon": "https://games.assets.gamepix.com/SL86T/thumbnail/small.png"
+        },
+        {
+            "name": "Basketball Swooshes",
+            "url": "https://play.gamepix.com/basketball-swooshes/embed?sid=16P5A",
+            "icon": "https://games.assets.gamepix.com/40439/thumbnail/small.png"
+        },
+        {
+            "name": "Beach Bowling 3D",
+            "url": "https://play.gamepix.com/beach-bowling-3d/embed?sid=16P5A",
+            "icon": "https://kayrainfo.com/images/sp11.jpg"
+        },
+        {
+            "name": "Bike Mania 2",
+            "url": "https://play.gamepix.com/bike-mania-2/embed?sid=16P5A",
+            "icon": "https://games.assets.gamepix.com/89M21/thumbnail/small.png"
+        },
+        {
+            "name": "Bike Mania 3 On Ice",
+            "url": "https://play.gamepix.com/bike-mania-3-on-ice/embed?sid=16P5A",
+            "icon": "https://games.assets.gamepix.com/E23EK/thumbnail/small.png"
+        },
+        {
+            "name": "Bouncy Dunk",
+            "url": "https://play.gamepix.com/bouncy-dunk/embed?sid=16P5A",
+            "icon": "https://games.assets.gamepix.com/40407/thumbnail/small.png"
+        },
+        {
+            "name": "Bowling Boom",
+            "url": "https://play.gamepix.com/bowling-boom/embed?sid=16P5A",
+            "icon": "https://games.assets.gamepix.com/7111G/thumbnail/small.png"
+        },
+        {
+            "name": "Bowling Challenge",
+            "url": "https://play.gamepix.com/bowling-challenge/embed?sid=16P5A",
+            "icon": "https://games.assets.gamepix.com/H0CNE/thumbnail/small.png"
+        },
+        {
+            "name": "Bowling Hero Multiplayer",
+            "url": "https://play.gamepix.com/bowling-hero-multiplayer/embed?sid=16P5A",
+            "icon": "https://games.assets.gamepix.com/U2G53/thumbnail/small.png"
+        },
+        {
+            "name": "Boxing Hero Punch Champions",
+            "url": "https://play.gamepix.com/boxing-hero-punch-champions/embed?sid=16P5A",
+            "icon": "https://kayrainfo.com/images/sp18.jpg"
+        },
+        {
+            "name": "Boxing Quiz",
+            "url": "https://play.gamepix.com/boxing-quiz/embed?sid=16P5A",
+            "icon": "https://games.assets.gamepix.com/8076I/thumbnail/small.png"
+        },
+        {
+            "name": "Boxing Stars",
+            "url": "https://play.gamepix.com/boxing-stars/embed?sid=16P5A",
+            "icon": "https://games.assets.gamepix.com/510IG/thumbnail/small.png"
+        },
+        {
+            "name": "Brazil Cup 2014",
+            "url": "https://play.gamepix.com/brazil-cup-2014/embed?sid=16P5A",
+            "icon": "https://games.assets.gamepix.com/10035/thumbnail/small.png"
+        },
+        {
+            "name": "Brazil Tiny Goalie",
+            "url": "https://play.gamepix.com/brazil-tiny-goalie/embed?sid=16P5A",
+            "icon": "https://games.assets.gamepix.com/31II1/thumbnail/small.png"
+        },
+        {
+            "name": "Brazil vs Argentina",
+            "url": "https://play.gamepix.com/brazil-vs-argentina/embed?sid=16P5A",
+            "icon": "https://games.assets.gamepix.com/9AGBV/thumbnail/small.png"
+        },
+        {
+            "name": "Broom",
+            "url": "https://play.gamepix.com/broom/embed?sid=16P5A",
+            "icon": "https://games.assets.gamepix.com/20066/thumbnail/small.png"
+        },
+        {
+            "name": "Buggy - Battle Royale",
+            "url": "https://play.gamepix.com/buggy-battle-royale/embed?sid=16P5A",
+            "icon": "https://games.assets.gamepix.com/T1T1U/thumbnail/small.png"
+        },
+        {
+            "name": "Car RacerZ",
+            "url": "https://play.gamepix.com/car-racerz/embed?sid=16P5A",
+            "icon": "https://games.assets.gamepix.com/C06C4/thumbnail/small.png"
+        },
+        {
+            "name": "Catchy Ball",
+            "url": "https://play.gamepix.com/catchy-ball/embed?sid=16P5A",
+            "icon": "https://games.assets.gamepix.com/62A6Y/thumbnail/small.png"
+        },
+        {
+            "name": "Chiellini Pool Soccer",
+            "url": "https://play.gamepix.com/chiellini-pool-soccer/embed?sid=16P5A",
+            "icon": "https://games.assets.gamepix.com/E9OI8/thumbnail/small.png"
+        },
+        {
+            "name": "Mummy Land",
+            "url": "https://play.gamepix.com/mummy-land/embed?sid=16P5A",
+            "icon": "https://games.assets.gamepix.com/L74AM/thumbnail/small.png"
+        },
+        {
+            "name": "3D Darts",
+            "url": "https://play.gamepix.com/3d-darts/embed?sid=16P5A",
+            "icon": "https://games.assets.gamepix.com/40438/thumbnail/small.png"
+        },
+        {
+            "name": "Airplane Pilot Simulator",
+            "url": "https://play.gamepix.com/airplane-pilot-simulator/embed?sid=16P5A",
+            "icon": "https://games.assets.gamepix.com/IIIOO/thumbnail/small.png"
+        },
+        {
+            "name": "AI Soccer Training",
+            "url": "https://play.gamepix.com/ai-soccer-training/embed?sid=16P5A",
+            "icon": "https://games.assets.gamepix.com/GS5A1/thumbnail/small.png"
+        },
+        {
+            "name": "Air Hockey Cup",
+            "url": "https://play.gamepix.com/air-hockey-cup/embed?sid=16P5A",
+            "icon": "https://games.assets.gamepix.com/64P0I/thumbnail/small.png"
         }
         
          
@@ -82,16 +721,104 @@
       "category_icon": "",
       "games": [
         {
-           "name": "Air Force Commando Online Game",
-		   "icon": "https://games.assets.gamepix.com/6IRME/thumbnail/small.png",
-           "url": "https://play.gamepix.com/air-force-commando-online-game/embed?sid=16P5A"
-           
+            "name": "Cafon Street Racing",
+            "url": "https://play.gamepix.com/cafon-street-racing/embed?sid=16P5A",
+            "icon": "https://games.assets.gamepix.com/8C5TT/thumbnail/small.png"
         },
         {
-           "name": "Air Force Commando Online Game",
-		   "icon": "https://games.assets.gamepix.com/6IRME/thumbnail/small.png",
-           "url": "https://play.gamepix.com/air-force-commando-online-game/embed?sid=16P5A"
-           
+            "name": "Cube Ninja",
+            "url": "https://play.gamepix.com/angry-ninja/embed?sid=16P5A",
+            "icon": "https://games.assets.gamepix.com/J5539/thumbnail/small.png"
+        },
+        {
+            "name": "Car RacerZ",
+            "url": "https://play.gamepix.com/car-racerz/embed?sid=16P5A",
+            "icon": "https://games.assets.gamepix.com/C06C4/thumbnail/small.png"
+        },
+        {
+            "name": "3D Santa Rescue",
+            "url": "https://play.gamepix.com/3d-santa-rescue/embed?sid=16P5A",
+            "icon": "https://games.assets.gamepix.com/S16D3/thumbnail/small.png"
+        },
+        {
+            "name": "Alphabet Merge Runner",
+            "url": "https://play.gamepix.com/alphabet-merge-and-fight/embed?sid=16P5A",
+            "icon": "https://games.assets.gamepix.com/FBB99/thumbnail/small.png"
+        },
+        {
+            "name": "Bike Attack",
+            "url": "https://play.gamepix.com/bike-attack/embed?sid=16P5A",
+            "icon": "https://games.assets.gamepix.com/A0KT5/thumbnail/small.png"
+        },
+        {
+            "name": "Bike Descent",
+            "url": "https://play.gamepix.com/bike-descent/embed?sid=16P5A",
+            "icon": "https://games.assets.gamepix.com/EE929/thumbnail/small.png"
+        },
+        {
+            "name": "Bike Mania 2",
+            "url": "https://play.gamepix.com/bike-mania-2/embed?sid=16P5A",
+            "icon": "https://games.assets.gamepix.com/89M21/thumbnail/small.png"
+        },
+        {
+            "name": "Bike Mania 3 On Ice",
+            "url": "https://play.gamepix.com/bike-mania-3-on-ice/embed?sid=16P5A",
+            "icon": "https://games.assets.gamepix.com/E23EK/thumbnail/small.png"
+        },
+        {
+            "name": "Bike Stunt skibidi Toilet",
+            "url": "https://play.gamepix.com/skibidi-toilet-moto-bike-racing/embed?sid=16P5A",
+            "icon": "https://games.assets.gamepix.com/OORI1/thumbnail/small.png"
+        },
+        {
+            "name": "Car Chase Parking",
+            "url": "https://play.gamepix.com/car-chase-parking/embed?sid=16P5A",
+            "icon": "https://games.assets.gamepix.com/E5KE5/thumbnail/small.png"
+        },
+        {
+            "name": "Car City Adventure",
+            "url": "https://play.gamepix.com/car-city-adventure/embed?sid=16P5A",
+            "icon": "https://games.assets.gamepix.com/0AUTA/thumbnail/small.png"
+        },
+        {
+            "name": "Car Crash Test",
+            "url": "https://play.gamepix.com/car-crash-test/embed?sid=16P5A",
+            "icon": "https://games.assets.gamepix.com/S1HEA/thumbnail/small.png"
+        },
+        {
+            "name": "Car Defender",
+            "url": "https://play.gamepix.com/car-defender/embed?sid=16P5A",
+            "icon": "https://games.assets.gamepix.com/35013/thumbnail/small.png"
+        },
+        {
+            "name": "Car Driving",
+            "url": "https://play.gamepix.com/car-driving/embed?sid=16P5A",
+            "icon": "https://games.assets.gamepix.com/07R7D/thumbnail/small.png"
+        },
+        {
+            "name": "Car Nabbing Race - The Police Car Chase",
+            "url": "https://play.gamepix.com/car-nabbing-race-the-police-car-chase/embed?sid=16P5A",
+            "icon": "https://games.assets.gamepix.com/NIB6T/thumbnail/small.png"
+        },
+        {
+            "name": "Car Parking 3D Merge Puzzle",
+            "url": "https://play.gamepix.com/car-parking-3d-merge-puzzle/embed?sid=16P5A",
+            "icon": "https://games.assets.gamepix.com/9339C/thumbnail/small.png"
+        },
+        {
+            "name": "Car Puzzles",
+            "url": "https://play.gamepix.com/car-puzzles/embed?sid=16P5A",
+            "icon": "https://games.assets.gamepix.com/10330/thumbnail/small.png"
+        },
+        {
+            "name": "Car Rapide",
+            "url": "https://play.gamepix.com/car-rapide/embed?sid=16P5A",
+            "icon": "https://games.assets.gamepix.com/6PD09/thumbnail/small.png"
+        },
+        {
+            "name": "Car Transform Mania Merger Tycoon",
+            "url": "https://play.gamepix.com/car-merger-tycoon/embed?sid=16P5A",
+            "icon": "https://games.assets.gamepix.com/6YY51/thumbnail/small.png"
         }
         
          

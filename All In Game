@@ -1,0 +1,16 @@
+{
+  "success": 1,
+  "data": [
+    {
+      "ads_show": "false",
+      "app_inter_dialog_show": "false",
+      "preload_inter_ads": "true",
+      "preload_native_ads": "true",
+      "inter_count": "2",
+      "ad_inter": "adx",
+      "ad_banner": "adx",
+      "privacy_url": "https://yourwebsite.com/privacy",
+      "redirect_app": ""
+    }
+  ]
+}

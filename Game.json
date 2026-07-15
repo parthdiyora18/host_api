@@ -5,14 +5,49 @@
       "category_icon": "https://www.insidesport.in/wp-content/uploads/2023/02/WhatsApp-Image-2023-02-14-at-9.59.56-PM.jpeg?w=690",
       "games": [
         {
-           "name": "Air Force Commando Online Game",
-           "icon": "https://games.assets.gamepix.com/6IRME/thumbnail/small.png",
-		   "url": "https://play.gamepix.com/air-force-commando-online-game/embed?sid=16P5A"
+           "name": "Barry Prison: Parkour Escape",
+           "icon": "https://imgs2.dab3games.com/barry-prison-parkour-escape-ft176.png",
+		   "url": "https://barry-prison-parkour-escape.games.playgama.net/cmny9j3jj03jlo30gmudg5cfv/index.html?platform_id=playgama&clid=p_8460bdc6-2f32-4753-b553-fa84d1fc40d7&game_id=97550"
         },
         {
-           "name": "Air Force Commando Online Game",
-           "icon": "https://games.assets.gamepix.com/6IRME/thumbnail/small.png",
-		   "url": "https://play.gamepix.com/air-force-commando-online-game/embed?sid=16P5A"
+           "name": "Magic Piano Tiles",
+           "icon": "https://imgs2.dab3games.com/magic-piano-tiles-ft17.png",
+		   "url": "https://lagged.com/games/magic-tiles-v2/"
+        },
+        {
+           "name": "Dino Dash",
+           "icon": "https://imgs2.dab3games.com/dino-dash-game-ft37.png",
+		   "url": "https://lagged.com/games/dino-dash-v2/"
+        },
+        {
+           "name": "Counter Craft 2 Zombies",
+           "icon": "https://imgs2.dab3games.com/counter-craft-2-zombies-game.png",
+		   "url": "https://lagged.com/games/play2/counter-craft-2-zombies-227/"
+        },
+        {
+           "name": "Snake Attack Shooter",
+           "icon": "https://imgs2.dab3games.com/snake-attack-shooter-ft1616.png",
+		   "url": "https://lagged.com/game-files/snake-attack-shooter-1903903/"
+        },
+        {
+           "name": "Steal Brainrot From Tsunami Online",
+           "icon": "https://imgs2.dab3games.com/steal-brainrot-from-tsunami-online-ft80.png",
+		   "url": "https://lagged.com/game-files/steal-brainrot-from-tsunami-online-1435588/"
+        },
+        {
+           "name": "Red & Blue: Online. Build! Destroy!",
+           "icon": "https://imgs2.dab3games.com/red-amp-blue-online-build-destroy-fight-ft106.png",
+		   "url": "https://playgama.com/export/game/red--blue-online-build-destroy-fight?clid=p_8460bdc6-2f32-4753-b553-fa84d1fc40d7"
+        },
+        {
+           "name": "Tsunami For Escape Brainrots",
+           "icon": "https://imgs2.dab3games.com/tsunami-for-escape-brainrots-ft146.png",
+		   "url": "https://lagged.com/game-files/tsunami-for-escape-brainrots-19299/"
+        },
+        {
+           "name": "Party Games Mini Shooter Battle",
+           "icon": "https://imgs2.dab3games.com/party-games-mini-shooter-battle-ft92.png",
+		   "url": "https://playgama.com/export/game/party-games-mini-shooter-battle?clid=p_8460bdc6-2f32-4753-b553-fa84d1fc40d7"
         }
 	  
       ] 
@@ -910,6 +945,24 @@
            "name": "Thief Puzzle",
 		   "icon": "https://imgs2.dab3games.com/thief-puzzle-929.png",
            "url": "https://lagged.com/games/thief-puzzle-v3/"
+           
+        },
+        {
+           "name": "Toilet Race",
+		   "icon": "https://imgs2.dab3games.com/toilet-race-game-big.png",
+           "url": "https://lagged.com/games/toilet-race-main-v2/"
+           
+        },
+        {
+           "name": "Poppy Playtime Chapter",
+		   "icon": "https://imgs2.dab3games.com/poppy-playtime-ch2-ft.png",
+           "url": "https://lagged.com/games/poppy-playtime-chapter-2026/"
+           
+        },
+        {
+           "name": "Ronaldo Ball Rush 2026",
+		   "icon": "https://imgs2.dab3games.com/ronaldo-ball-rush-2026-ft192.png",
+           "url": "https://lagged.com/game-files/ronaldo-ball-rush-2026-15902/"
            
         }
         

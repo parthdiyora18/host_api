@@ -2,65 +2,101 @@
   "Game":[
     {
       "category_name": "Action Game",
-      "category_icon": "https://www.insidesport.in/wp-content/uploads/2023/02/WhatsApp-Image-2023-02-14-at-9.59.56-PM.jpeg?w=690",
+      "category_icon": "https://imgs2.dab3games.com/brawlguys-io-game.png",
       "games": [
         {
            "name": "Barry Prison: Parkour Escape",
            "icon": "https://imgs2.dab3games.com/barry-prison-parkour-escape-ft176.png",
-		   "url": "https://barry-prison-parkour-escape.games.playgama.net/cmny9j3jj03jlo30gmudg5cfv/index.html?platform_id=playgama&clid=p_8460bdc6-2f32-4753-b553-fa84d1fc40d7&game_id=97550"
+		   "url":  "https://barry-prison-parkour-escape.games.playgama.net/cmny9j3jj03jlo30gmudg5cfv/index.html?platform_id=playgama&clid=p_8460bdc6-2f32-4753-b553-fa84d1fc40d7&game_id=97550"
         },
         {
            "name": "Magic Piano Tiles",
            "icon": "https://imgs2.dab3games.com/magic-piano-tiles-ft17.png",
-		   "url": "https://lagged.com/games/magic-tiles-v2/"
+		   "url":  "https://lagged.com/games/magic-tiles-v2/"
         },
         {
            "name": "Dino Dash",
            "icon": "https://imgs2.dab3games.com/dino-dash-game-ft37.png",
-		   "url": "https://lagged.com/games/dino-dash-v2/"
+		   "url":  "https://lagged.com/games/dino-dash-v2/"
         },
         {
            "name": "Counter Craft 2 Zombies",
            "icon": "https://imgs2.dab3games.com/counter-craft-2-zombies-game.png",
-		   "url": "https://lagged.com/games/play2/counter-craft-2-zombies-227/"
+		   "url":  "https://lagged.com/games/play2/counter-craft-2-zombies-227/"
         },
         {
            "name": "Snake Attack Shooter",
            "icon": "https://imgs2.dab3games.com/snake-attack-shooter-ft1616.png",
-		   "url": "https://lagged.com/game-files/snake-attack-shooter-1903903/"
+		   "url":  "https://lagged.com/game-files/snake-attack-shooter-1903903/"
         },
         {
            "name": "Steal Brainrot From Tsunami Online",
            "icon": "https://imgs2.dab3games.com/steal-brainrot-from-tsunami-online-ft80.png",
-		   "url": "https://lagged.com/game-files/steal-brainrot-from-tsunami-online-1435588/"
+		   "url":  "https://lagged.com/game-files/steal-brainrot-from-tsunami-online-1435588/"
         },
         {
            "name": "Red & Blue: Online. Build! Destroy!",
            "icon": "https://imgs2.dab3games.com/red-amp-blue-online-build-destroy-fight-ft106.png",
-		   "url": "https://playgama.com/export/game/red--blue-online-build-destroy-fight?clid=p_8460bdc6-2f32-4753-b553-fa84d1fc40d7"
+		   "url":  "https://playgama.com/export/game/red--blue-online-build-destroy-fight?clid=p_8460bdc6-2f32-4753-b553-fa84d1fc40d7"
         },
         {
            "name": "Tsunami For Escape Brainrots",
            "icon": "https://imgs2.dab3games.com/tsunami-for-escape-brainrots-ft146.png",
-		   "url": "https://lagged.com/game-files/tsunami-for-escape-brainrots-19299/"
+		   "url":  "https://lagged.com/game-files/tsunami-for-escape-brainrots-19299/"
         },
         {
            "name": "Party Games Mini Shooter Battle",
            "icon": "https://imgs2.dab3games.com/party-games-mini-shooter-battle-ft92.png",
-		   "url": "https://playgama.com/export/game/party-games-mini-shooter-battle?clid=p_8460bdc6-2f32-4753-b553-fa84d1fc40d7"
+		   "url":  "https://playgama.com/export/game/party-games-mini-shooter-battle?clid=p_8460bdc6-2f32-4753-b553-fa84d1fc40d7"
         },
         {
            "name": "Ride a Bike for Brainrots",
            "icon": "https://imgs2.dab3games.com/ride-a-bike-for-brainrots-ft82.png",
-		   "url": "https://playgama.com/export/game/ride-a-bike-for-brainrots?clid=p_8460bdc6-2f32-4753-b553-fa84d1fc40d7"
+		   "url":  "https://playgama.com/export/game/ride-a-bike-for-brainrots?clid=p_8460bdc6-2f32-4753-b553-fa84d1fc40d7"
         },
         {
            "name": "My Car, My Rules",
            "icon": "https://imgs2.dab3games.com/my-car-my-rules-ft7.png",
-		   "url": "https://playgama.com/export/game/my-car-my-rules?clid=p_8460bdc6-2f32-4753-b553-fa84d1fc40d7"
+		   "url":  "https://playgama.com/export/game/my-car-my-rules?clid=p_8460bdc6-2f32-4753-b553-fa84d1fc40d7"
+        },
+        {
+           "name": "LaggedPrison Architect: Cage Break Tycoon",
+           "icon": "https://imgs2.dab3games.com/prison-architect-cage-break-tycoon-ft103.png",
+		   "url":  "https://playgama.com/export/game/prison-architect-cage-break-tycoon?clid=p_8460bdc6-2f32-4753-b553-fa84d1fc40d7"
+        },
+        {
+           "name": "LaggedGood Knight Story",
+           "icon": "https://imgs2.dab3games.com/good-knight-story-ft193.png",
+		   "url":  "https://playgama.com/export/game/good-knight-story-game?clid=p_8460bdc6-2f32-4753-b553-fa84d1fc40d7"
+        },
+        {
+           "name": "Ragdoll Duel",
+           "icon": "https://imgs2.dab3games.com/ragdollduel-game.png",
+		   "url":  "https://lagged.com/live/ragdoll-duel/"
+        },
+        {
+           "name": "Castle Raid 3D",
+           "icon": "https://imgs2.dab3games.com/castle-raid47.png",
+		   "url":  "https://lagged.com/games/play2/castleraid3d2/"
+        },
+        {
+           "name": "BrawlGuys.io",
+           "icon": "https://imgs2.dab3games.com/brawlguys-io-game.png",
+		   "url":  "https://lagged.com/api/play2/brawlguys2/"
+        },
+        {
+           "name": "Mister Punch 3D",
+           "icon": "https://imgs2.dab3games.com/mister-punch-game23.png",
+		   "url":  "https://lagged.com/games/play2/misterpunch3d9/"
+        },
+        {
+           "name": "Mini Battles - 6 Players",
+           "icon": "https://imgs2.dab3games.com/mini-battles-6-players-game.png",
+		   "url":  "https://lagged.com/api/play2/mini-battles-6-players3/"
         }
 	  
       ] 
+	  
     },
     {
       "category_name": "Animal Game",

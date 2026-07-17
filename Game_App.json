@@ -25,7 +25,7 @@
   "fb_native_banner_id": "",
   "dev_option": "false",
   "ads_show": "true",
-  "ads_game_main_screen": "banner",
+  "ads_game_main_screen": "native",
   "ads_game_fragment_screen": "native",
   "ads_win_game_screen": "banner",
   "ads_ThreeD_game_screen": "banner",

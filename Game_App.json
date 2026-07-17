@@ -26,7 +26,7 @@
   "dev_option": "false",
   "ads_show": "true",
   "ads_game_main_screen": "banner",
-  "ads_game_fragment_screen": "native_banner",
+  "ads_game_fragment_screen": "small_native",
   "ads_win_game_screen": "banner",
   "ads_ThreeD_game_screen": "banner",
   "ads_popular_game_screen": "banner",

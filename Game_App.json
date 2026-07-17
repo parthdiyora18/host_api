@@ -2,7 +2,7 @@
   "success": 1,
   "data": [
 {  
-  "check_native": "true",
+  "check_native": "false",
   "native_url": "https://lh3.googleusercontent.com/uBl_jUrOi9gmlOuQjCwmqEYWlDXw3QFKFB0Zt2BcsDwS-h4-J9XEccycTxhK_42gPN0=h310",
   "packagename": "com.rreal.xvideofour",
   "admob_appopenid": "ca-app-pub-3940256099942544/9257395921",

@@ -28,8 +28,6 @@
   "ads_game_main_screen": "small_native",
   "ads_game_screen": "banner",
   "ads_game_category_screen": "banner",
-  "ads_ThreeD_game_screen": "banner",
-  "ads_popular_game_screen": "banner",
   "app_inter_dialog_show": "true",
   "preload_inter_ads": "false",
   "preload_native_ads": "false",

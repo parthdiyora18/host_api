@@ -100,12 +100,12 @@
     },
     {
       "category_name": "Animal Game",
-      "category_icon": "",
+      "category_icon": "https://imgs2.dab3games.com/cat-ecapage-game-ft.png",
       "games": [
         {
-            "name": "Obby: Make It Home!",
-            "url": "https://playgama.com/export/game/obby-make-it-home?clid=p_8460bdc6-2f32-4753-b553-fa84d1fc40d7",
-            "icon": "https://imgs2.dab3games.com/obby-make-it-home-ft26.png"
+           "name": "Cat Escape",
+           "icon": "https://imgs2.dab3games.com/cat-ecapage-game-ft.png",
+		   "url":  "https://lagged.com/games/cat-escapes-1/"
         },
         {
             "name": "Knife-hit",
@@ -208,7 +208,7 @@
     },
 	{
       "category_name": "Gamezop Game",
-      "category_icon": "",
+      "category_icon": "https://imgs2.dab3games.com/magic-piano-tiles-ft17.png",
       "games": [
         {
             "name": "Bottle Shoot",

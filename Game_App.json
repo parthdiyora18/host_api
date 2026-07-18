@@ -38,7 +38,7 @@
   "preload_mrec_ads": "false",
   "inter_count": "1",
   "ads_max_interstitial": "3",
-  "ad_splash": "local",
+  "ad_splash": "dailog_ad",
   "ad_secound_splash": "off",
   "ad_appopen": "local",
   "ad_inter": "local",

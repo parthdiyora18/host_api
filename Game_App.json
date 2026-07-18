@@ -40,7 +40,7 @@
   "ads_max_interstitial": "3",
   "ad_splash": "local",
   "ad_secound_splash": "off",
-  "ad_appopen": "local",
+  "ad_appopen": "native",
   "ad_inter": "local",
   "ad_native_banner": "local",
   "ad_small_native": "local",

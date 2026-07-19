@@ -229,6 +229,41 @@
            "name": "Sweet Hangman",
            "icon": "https://img.cdn.famobi.com/portal/html5games/images/tmp/180/SweetHangmanTeaser.jpg?v=0.2-c2653b23",
 		   "url":  "https://play.famobi.com/sweet-hangman"
+        },
+		{
+           "name": "Geo Quiz - Europe",
+           "icon": "https://img.cdn.famobi.com/portal/html5games/images/tmp/180/GeoQuizEuropeTeaser.jpg?v=0.2-c2653b23",
+		   "url":  "https://play.famobi.com/geo-quiz-europe"
+        },
+		{
+           "name": "Animal Quiz",
+           "icon": "https://img.cdn.famobi.com/portal/html5games/images/tmp/180/AnimalQuizChristmasTeaser.jpg?v=0.2-c2653b23",
+		   "url":  "https://play.famobi.com/animal-quiz"
+        },
+		{
+           "name": "Fluffy Egg",
+           "icon": "https://img.cdn.famobi.com/portal/html5games/images/tmp/180/FluffyEggTeaser.jpg?v=0.2-c2653b23",
+		   "url":  "https://play.famobi.com/fluffy-egg"
+        },
+		{
+           "name": "4x1 Picture Quiz",
+           "icon": "https://img.cdn.famobi.com/portal/html5games/images/tmp/180/Wordguess4ImagesTeaser.jpg?v=0.2-c2653b23",
+		   "url":  "https://play.famobi.com/wordguess-4images"
+        },
+		{
+           "name": "What Famous Cat Are You",
+           "icon": "https://img.cdn.famobi.com/portal/html5games/images/tmp/180/WhatFamousCatAreYouTeaser.jpg?v=0.2-c2653b23",
+		   "url":  "https://play.famobi.com/what-famous-cat-are-you"
+        },
+		{
+           "name": "Wordguess 2 Heavy",
+           "icon": "https://img.cdn.famobi.com/portal/html5games/images/tmp/180/Wordguess2HeavyTeaser.jpg?v=0.2-c2653b23",
+		   "url":  "https://play.famobi.com/wordguess-2-heavy"
+        },
+		{
+           "name": "Quick Quiz",
+           "icon": "https://img.cdn.famobi.com/portal/html5games/images/tmp/180/QuickQuizTeaser.jpg?v=0.2-c2653b23",
+		   "url":  "https://play.famobi.com/quick-quiz"
         }
         
         

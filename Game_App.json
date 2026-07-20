@@ -27,7 +27,6 @@
   "ads_show": "false",
   "ads_game_main_screen": "small_native",
   "ads_game_screen": "small_native",
-  "ads_game_category_screen": "small_native",
   "ads_dailog_screen": "native",
   "app_inter_dialog_show": "true",
   "preload_inter_ads": "false",

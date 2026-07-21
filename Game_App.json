@@ -39,10 +39,10 @@
   "ads_dailog_screen": "native",
           
   "preload_inter_ads": "false",
-  "preload_native_ads": "true",
-  "preload_small_native_ads": "true",
+  "preload_native_ads": "false",
+  "preload_small_native_ads": "false",
   "preload_native_banner_ads": "false",
-  "preload_banner_ads": "true",
+  "preload_banner_ads": "false",
   "preload_mrec_ads": "false",
 
   "app_inter_dialog_show": "true",    

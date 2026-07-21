@@ -47,7 +47,7 @@
 
   "app_inter_dialog_show": "true",    
   "inter_count": "3",
-  "ads_max_interstitial": "3",
+  "ads_max_interstitial": "4",
       
   "ad_splash": "inter",
   "ad_secound_splash": "off",

@@ -41,10 +41,10 @@
   "app_inter_dialog_show": "false",
       
   "preload_inter_ads": "false",
-  "preload_native_ads": "false",
-  "preload_small_native_ads": "false",
+  "preload_native_ads": "true",
+  "preload_small_native_ads": "true",
   "preload_native_banner_ads": "false",
-  "preload_banner_ads": "false",
+  "preload_banner_ads": "true",
   "preload_mrec_ads": "false",
       
   "inter_count": "3",

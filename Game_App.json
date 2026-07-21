@@ -54,12 +54,12 @@
       
   "ad_appopen": "custom",
       
-  "ad_inter": "custom,admob,fb",
-  "ad_native_banner": "custom,admob,fb",
-  "ad_small_native": "custom,admob,fb",
-  "ad_native": "custom,admob,fb",
+  "ad_inter": "custom,admob,fb,adx",
+  "ad_native_banner": "custom,admob,fb,adx",
+  "ad_small_native": "custom,admob,fb,adx",
+  "ad_native": "custom,admob,fb,adx",
   "ad_medium_rect": "adx",
-  "ad_banner": "custom,admob,fb",
+  "ad_banner": "custom,admob,fb,adx",
   "ad_collapsible_banner": "custom",
       
   "ads_url_inter_1": "false",

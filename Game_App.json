@@ -49,7 +49,7 @@
   "inter_count": "3",
   "ads_max_interstitial": "4",
       
-  "ad_splash": "inter",
+  "ad_splash": "appopen",
   "ad_secound_splash": "off",
       
   "ad_appopen": "custom",

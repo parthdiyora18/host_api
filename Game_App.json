@@ -25,6 +25,9 @@
   "adx_medium_rectangleid": "	/21775744923/example/adaptive-banner",
   "adx_native_id": "/21775744923/example/native",
       
+   "fb_app_id": "1234567890",
+   "fb_client_token": "PASTE_YOUR_CLIENT_TOKEN_HERE",
+      
   "fb_splash_inter_id": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
   "fb_inter_id": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
   "fb_banner_id": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",

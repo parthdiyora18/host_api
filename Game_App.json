@@ -37,7 +37,7 @@
     
   "ads_show": "true",
       
-  "ads_game_main_screen": "native",
+  "ads_game_main_screen": "mrec",
   "ads_game_screen": "banner",
   "ads_dailog_screen": "mrec",
           

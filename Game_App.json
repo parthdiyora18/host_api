@@ -61,7 +61,7 @@
   "ad_native_banner": "custom,admob,fb,adx",
   "ad_small_native": "custom,admob,fb,adx",
   "ad_native": "custom,admob,fb,adx",
-  "ad_medium_rect": "custom,admob,fb,adx",
+  "ad_medium_rect": "admob,fb",
   "ad_banner": "custom,admob,fb,adx",
   "ad_collapsible_banner": "custom",
       

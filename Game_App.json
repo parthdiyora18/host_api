@@ -37,9 +37,9 @@
     
   "ads_show": "true",
       
-  "ads_game_main_screen": "small_native",
+  "ads_game_main_screen": "mrec",
   "ads_game_screen": "banner",
-  "ads_dailog_screen": "native",
+  "ads_dailog_screen": "mrec",
           
   "preload_inter_ads": "false",
   "preload_native_ads": "false",
@@ -57,12 +57,12 @@
       
   "ad_appopen": "custom",
       
-  "ad_inter": "custom,admob,fb,adx",
-  "ad_native_banner": "custom,admob,fb,adx",
-  "ad_small_native": "custom,admob,fb,adx",
-  "ad_native": "custom,admob,fb,adx",
-  "ad_medium_rect": "adx",
-  "ad_banner": "custom,admob,fb,adx",
+  "ad_inter": "custom",
+  "ad_native_banner": "custom",
+  "ad_small_native": "custom",
+  "ad_native": "custom",
+  "ad_medium_rect": "custom",
+  "ad_banner": "custom",
   "ad_collapsible_banner": "custom",
       
   "ads_url_inter_1": "false",

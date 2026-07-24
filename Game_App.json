@@ -52,10 +52,10 @@
   "inter_count": "3",
   "ads_max_interstitial": "4",
       
-  "ad_splash": "custom",
+  "ad_splash": "inter",
   "ad_secound_splash": "appopen",
       
-  "ad_appopen": "custom",
+  "ad_appopen": "appopen",
       
   "ad_inter": "custom,admob,fb,adx",
   "ad_native_banner": "custom,admob,fb,adx",

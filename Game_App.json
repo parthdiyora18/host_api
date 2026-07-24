@@ -55,7 +55,7 @@
   "ad_splash": "custom",
   "ad_secound_splash": "custom",
       
-  "ad_appopen": "appopen",
+  "ad_appopen": "custom",
       
   "ad_inter": "custom,admob,fb,adx",
   "ad_native_banner": "custom,admob,fb,adx",

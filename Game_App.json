@@ -74,9 +74,41 @@
   "ads_url": "https://1154.game.qureka.com",
       
   "max_ad_content_rating": "",
-  "redirect_app": ""
-   }
+  "redirect_app": "",
+      
+  "custom_data": [
+  {
+    "app_name": "Live Cricket Tv HD",
+    "app_banner": "https://lh3.googleusercontent.com/jm6PzQlIpOskCW3W0xSS6zqXIYaK3LsYi_FqylYJIA3AlWgP6W9Vn3S_7EgA1-2MpgyAWgMtNqNWRnL9VVo8VSo=h310",
+    "app_icon": "https://lh3.googleusercontent.com/3tj8SWL2RElMK1ggXI01IWc_5eBzfWg4b3vVncJpSGe2NKT_I64g_VP3gExMZR7SYgX0ACpVaM9AxFKkf25b=h105",
+    "app_body": "Enjoy real-time cricket scores and live commentary like never before!",
+    "pakage": "com.live.hd.livetvcricket.freetv.stremkhali",
+    "action_btn": "Install",
+    "rating": "4.0"
+  },
+  {
+    "app_name": "Ten Sports Live HD",
+    "app_banner": "https://lh3.googleusercontent.com/zgl777_kgoO7EB1vzY6QAyHLuBPNuof-7nHiC7HiWJVz4XFYap7-lpWvp6P7P7up8f_o_KPCAacBPUSKYfjLnQ=h310",
+    "app_icon": "https://lh3.googleusercontent.com/Q78F3Av0rDlLymVDEjxGnjKwWsVvUrR6ewSMGyfFVg-UBsWN7AI0vxYxPFTi_vH0fP-1GITgtBUUJD8_L6HKjg=h105",
+    "app_body": "Ten Sports HD Scores: Get real-time match updates, stats, and schedules.",
+    "pakage": "com.sportsten.hdten.tensportshd",
+    "action_btn": "Install",
+    "rating": "4.1"
+  },
+  {
+    "app_name": "UrbanGabru Hair Volumizing Powder",
+    "app_banner": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/24ec55c2-5ea5-497d-80a0-1719c255e858.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+    "app_icon": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/227ac99b-a2bd-496b-9622-fdc3fc04a488.__CR0,52,1000,1096_PT0_SX166_V1___.jpg",
+    "app_body": "Now, you do not have to worry about that oily or greasy look. You can carry this hair volumizing powder anywhere and style your hair the way you want.",
+    "pakage": "https://amzn.to/3zP2nRn",
+    "action_btn": "Buy Now",
+    "rating": "4.5"
+  }
+]
 
-    
+
+
+      
+   }
   ]
 }

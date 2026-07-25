@@ -38,7 +38,7 @@
   "fb_native_banner_id": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
   "fb_rewarded_id": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
     
-  "ads_show": "false",
+  "ads_show": "true",
       
   "ads_game_main_screen": "mrec",
   "ads_game_screen": "banner",
@@ -52,7 +52,7 @@
   "preload_mrec_ads": "false",
 
   "app_inter_dialog_show": "true",    
-  "inter_count": "3",
+  "inter_count": "5",
   "ads_max_interstitial": "4",
       
   "ad_splash": "custom",

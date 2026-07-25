@@ -42,6 +42,7 @@
       
   "ads_game_main_screen": "mrec",
   "ads_game_screen": "banner",
+  "ads_game_adapter": "small_native",
   "ads_dailog_screen": "mrec",
           
   "preload_inter_ads": "false",

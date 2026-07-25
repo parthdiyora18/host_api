@@ -52,7 +52,7 @@
   "preload_mrec_ads": "false",
 
   "app_inter_dialog_show": "true",    
-  "inter_count": "5",
+  "inter_count": "4",
   "ads_max_interstitial": "4",
       
   "ad_splash": "custom",

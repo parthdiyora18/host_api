@@ -39,36 +39,41 @@
   "fb_rewarded_id": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
     
   "ads_show": "true",
+
+  "ad_splash": "custom",
+  "ad_secound_splash": "custom",
+
+  "ad_appopen": "custom",   
+              
+  "preload_inter_ads": "false",
+  "ad_inter": "off",
+  "app_inter_dialog_show": "true",    
+  "inter_count": "4",
+  "ads_max_interstitial": "4",    
       
+  "preload_native_ads": "false",
+  "ad_native": "custom,admob,fb,adx",
+      
+  "preload_small_native_ads": "false",
+  "ad_small_native": "custom",
+      
+  "preload_native_banner_ads": "false",
+  "ad_native_banner": "custom,admob,fb,adx",
+      
+  "preload_banner_ads": "false",
+  "ad_banner": "custom,admob,fb,adx",
+      
+  "preload_mrec_ads": "false",
+  "ad_medium_rect": "admob,custom,fb,adx",
+
+  "ad_collapsible_banner": "custom",
+      
+  "ad_rewarded": "admob,fb,adx",
+
   "ads_game_main_screen": "mrec",
   "ads_game_screen": "banner",
   "ads_game_adapter": "small_native",
-  "ads_dailog_screen": "mrec",
-          
-  "preload_inter_ads": "false",
-  "preload_native_ads": "false",
-  "preload_small_native_ads": "false",
-  "preload_native_banner_ads": "false",
-  "preload_banner_ads": "false",
-  "preload_mrec_ads": "false",
-
-  "app_inter_dialog_show": "true",    
-  "inter_count": "4",
-  "ads_max_interstitial": "4",
-      
-  "ad_splash": "custom",
-  "ad_secound_splash": "custom",
-      
-  "ad_appopen": "custom",
-      
-  "ad_inter": "off",
-  "ad_native_banner": "custom,admob,fb,adx",
-  "ad_small_native": "custom",
-  "ad_native": "custom,admob,fb,adx",
-  "ad_medium_rect": "admob,custom,fb,adx",
-  "ad_banner": "custom,admob,fb,adx",
-  "ad_collapsible_banner": "custom",
-  "ad_rewarded": "admob,fb,adx",
+  "ads_dailog_screen": "mrec",    
       
   "ads_url_inter_1": "false",
   "ads_url_inter_2": "false",

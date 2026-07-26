@@ -43,7 +43,7 @@
   "ad_splash": "custom",
   "ad_secound_splash": "custom",
       
-  "ad_appopen": "custom",   
+  "ad_appopen": "appopen",   
               
   "preload_inter_ads": "false",
   "ad_inter": "off",

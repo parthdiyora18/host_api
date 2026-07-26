@@ -72,7 +72,7 @@
 
   "ads_game_main_screen": "mrec",
   "ads_game_screen": "banner",
-  "ads_game_adapter": "small_native",
+  "ads_game_adapter": "mrec",
   "ads_dailog_screen": "mrec",    
       
   "ads_url_inter_1": "false",

@@ -65,10 +65,10 @@
   "ad_native_banner": "custom,admob,fb,adx",
   "ad_small_native": "custom,admob,fb,adx",
   "ad_native": "custom,admob,fb,adx",
-  "ad_medium_rect": "admob,fb",
+  "ad_medium_rect": "admob,custom,fb,adx",
   "ad_banner": "custom,admob,fb,adx",
   "ad_collapsible_banner": "custom",
-  "ad_rewarded": "admob",
+  "ad_rewarded": "admob,fb,adx",
       
   "ads_url_inter_1": "false",
   "ads_url_inter_2": "false",

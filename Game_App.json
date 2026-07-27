@@ -51,6 +51,9 @@
   "inter_count": "4",
   "ads_max_interstitial": "4",    
       
+  "ads_refresh_show": "true",   
+  "ads_refresh_time": "10",   
+      
   "preload_native_ads": "false",
   "ad_native": "custom,admob,fb,adx",
       
@@ -60,9 +63,7 @@
   "preload_native_banner_ads": "false",
   "ad_native_banner": "custom,admob,fb,adx",
       
-  "preload_banner_ads": "false",
-  "ads_banner_refresh_show": "true",   
-  "ads_banner_refresh_time": "10",    
+  "preload_banner_ads": "false",    
   "ad_banner": "custom,admob,fb,adx",
       
   "preload_mrec_ads": "false",

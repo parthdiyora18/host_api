@@ -67,7 +67,7 @@
 
   "ad_collapsible_banner": "custom",
       
-  "ad_rewarded": "admob,fb,adx",
+  "ad_rewarded": "off",
 
   "ads_game_main_screen": "mrec",
   "ads_game_screen": "banner",

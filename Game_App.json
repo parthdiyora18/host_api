@@ -62,7 +62,7 @@
       
   "preload_banner_ads": "false",
   "ads_banner_refresh_show": "true",   
-  "ads_banner_refresh_time": "15",    
+  "ads_banner_refresh_time": "10",    
   "ad_banner": "custom,admob,fb,adx",
       
   "preload_mrec_ads": "false",

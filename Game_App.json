@@ -34,7 +34,7 @@
   "fb_native_banner_id": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
   "fb_rewarded_id": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
     
-  "ads_show": "true",
+  "ads_show": "false",
 
   "ad_splash": "custom",
   "ad_secound_splash": "custom",

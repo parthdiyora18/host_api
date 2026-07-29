@@ -47,7 +47,7 @@
   "inter_count": "4",
   "ads_max_interstitial": "4",    
       
-  "ads_refresh_show": "true",   
+  "ads_refresh_show": "false",   
   "ads_refresh_time": "10",   
       
   "preload_native_ads": "false",

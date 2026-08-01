@@ -79,6 +79,7 @@
   "ads_game_main_screen": "native",
   "ads_game_screen": "banner",
   "ads_game_adapter": "native",
+  "ads_tournament_screen": "native_banner",    
   "ads_dailog_screen": "native",    
       
   "ads_url_inter_1": "false",

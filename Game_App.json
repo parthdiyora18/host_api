@@ -33,6 +33,13 @@
   "fb_native_id": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
   "fb_native_banner_id": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
   "fb_rewarded_id": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+
+  "applovin_appopen_id": "",
+  "applovin_splash_inter_id": "",
+  "applovin_inter_id": "",
+  "applovin_banner_id": "",
+  "applovin_native_id": "",
+  "applovin_mrec_id": "",    
     
   "ads_show": "true",
 

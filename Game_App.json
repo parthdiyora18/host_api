@@ -12,7 +12,7 @@
   "admob_interid": "ca-app-pub-3940256099942544/1033173712",
   "admob_bannerid": "/21833905170,22479209134/Banner_online.videoplayer_banner_DU",
   "admob_medium_rectangleid": "ca-app-pub-3940256099942544/9214589741",
-  "admob_nativeid": "ca-app-pub-3940256099942544/2247696110",
+  "admob_nativeid": "/21833905170,22479209134/Native_online.videoplayer_native_DU",
   "admob_rewardedid": "ca-app-pub-3940256099942544/5224354917",   
       
   "adx_appopen_id": "/21775744923/example/app-open",
@@ -20,7 +20,7 @@
   "adx_inter_id": "/21775744923/example/interstitial",
   "adx_banner_id": "/21833905170,22479209134/Banner_online.videoplayer_banner_DU",
   "adx_medium_rectangleid": "ca-app-pub-3940256099942544/9214589741",
-  "adx_native_id": "/21775744923/example/native",
+  "adx_native_id": "/21833905170,22479209134/Native_online.videoplayer_native_DU",
   "adx_rewardedid": "ca-app-pub-3940256099942544/5224354917",  
       
    "fb_app_id": "1234567890",

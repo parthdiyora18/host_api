@@ -55,22 +55,22 @@
   "ads_max_interstitial": "4",    
       
   "ads_refresh_show": "false",   
-  "ads_refresh_time": "10",   
+  "ads_refresh_time": "15",   
       
   "preload_native_ads": "false",
-  "ad_native": "admob,fb,adx,custom",
+  "ad_native": "fb",
       
   "preload_small_native_ads": "false",
-  "ad_small_native": "custom",
+  "ad_small_native": "fb",
       
   "preload_native_banner_ads": "false",
-  "ad_native_banner": "custom,admob,fb,adx",
+  "ad_native_banner": "fb",
       
   "preload_banner_ads": "false",    
-  "ad_banner": "custom,admob,fb,adx",
+  "ad_banner": "fb",
       
   "preload_mrec_ads": "false",
-  "ad_medium_rect": "admob,custom,fb,adx",
+  "ad_medium_rect": "fb",
 
   "ad_collapsible_banner": "custom",
       

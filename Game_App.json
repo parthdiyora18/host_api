@@ -34,12 +34,25 @@
   "fb_native_banner_id": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
   "fb_rewarded_id": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
 
+  "applovin_sdk_key": "",   
+      
   "applovin_appopen_id": "",
   "applovin_splash_inter_id": "",
   "applovin_inter_id": "",
   "applovin_banner_id": "",
   "applovin_native_id": "",
   "applovin_mrec_id": "",    
+  "applovin_rewarded_id": "",    
+
+  "wortise_app_id": "",
+      
+  "wortise_splash_inter_id": "",
+  "wortise_appopen_id": "",
+  "wortise_inter_id": "",
+  "wortise_banner_id": "",
+  "wortise_native_id": "",
+  "wortise_mrec_id": "",
+  "wortise_rewarded_id": "",   
     
   "ads_show": "true",
 

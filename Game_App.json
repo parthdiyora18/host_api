@@ -54,7 +54,7 @@
   "wortise_mrec_id": "",
   "wortise_rewarded_id": "",   
     
-  "ads_show": "true",
+  "ads_show": "false",
 
   "ad_splash": "off",
   "ad_secound_splash": "custom",

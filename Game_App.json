@@ -46,13 +46,13 @@
 
   "wortise_app_id": "",
       
-  "wortise_splash_inter_id": "",
-  "wortise_appopen_id": "",
-  "wortise_inter_id": "",
-  "wortise_banner_id": "",
-  "wortise_native_id": "",
-  "wortise_mrec_id": "",
-  "wortise_rewarded_id": "",   
+  "wortise_splash_inter_id": "test-interstitial",
+  "wortise_appopen_id": "test-app-open",
+  "wortise_inter_id": "test-interstitial",
+  "wortise_banner_id": "test-banner",
+  "wortise_native_id": "test-native",
+  "wortise_mrec_id": "test-banner",
+  "wortise_rewarded_id": "test-rewarded",   
     
   "ads_show": "false",
 

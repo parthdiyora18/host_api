@@ -56,8 +56,11 @@
 
   "ad_splash": "off",
   "ad_secound_splash": "custom",
+  "ad_splash_inter": "admob",
+  "ad_splash_open": "admob", 
       
   "ad_appopen": "off",   
+  "ad_on_start_open_ad": "off",   
               
   "preload_inter_ads": "false",
   "ad_inter": "off",
